@@ -34,7 +34,5 @@ public class CloudTest {
 
             Assertions.assertEquals("bvgxzkoshsmcklnnchankvjurykjbeujevwazbbglecvvpdsdrqtirluhifxofpk", generatedString);
         }
-
-
     }
 }
